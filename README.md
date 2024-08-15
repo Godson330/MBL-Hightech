@@ -1,5 +1,5 @@
 Godson okoye
-Overview:This project includes Cypress tests to verif user login, Item creation, Update, and deletion functionalities.
+Overview:This project includes Cypress tests to verify user login, Item creation, Update, and deletion functionalities.
 Prerequisites: Cypress installed
 Clone the repository and navigate to the project directory.
 Install dependencies with npm install.
