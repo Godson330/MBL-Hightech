@@ -3,7 +3,7 @@ describe('UI Interactions', () => {
   // Test for that user can login with valid username and password
   it('should allow user to log in', () => {
     cy.visit('https://newapp.com/');
-    cy.get('input[name="username"]').type('joe3');
+    cy.get('input[name="username"]').type('joe2');
     cy.get('input[name="password"]').type('josh');
     cy.get('button[type="submit"]').click();
     cy.url().should('include', '/dashboard');
