@@ -1,11 +1,11 @@
 # Godson okoye
-**Overview**: This project encompasses multiple testing strategies across different components and functionalities, 
-React UI Testing:
-UI Components: Defined in login.js.,
- Testing File: login.test.js.
- Description: Tests the React UI components for user login functionality using Jest, 
-Item Creation Testing: 
- Testing File: itemform.test.js.
+**Overview**: This project encompasses multiple testing strategies across different components and functionalities.
+**React UI Testing:
+**UI Components**: Defined in login.js.
+ **Testing File: login.test.js.
+ **Description**: Tests the React UI components for user login functionality using Jest, 
+**Item Creation Testing**: 
+ **Testing File: itemform.test.js.
  Description: Verifies item creation functionalities, using Jest to test components defined in itemform.js.
  API Testing with SuperTest,
  Testing File: newapp.test.js,
