@@ -11,7 +11,7 @@ describe('Login Component', () => {
 
     render(<Login />);
 
-    fireEvent.change(screen.getByLabelText(/username/i), { target: { value: 'joe3' } });
+    fireEvent.change(screen.getByLabelText(/username/i), { target: { value: 'joe2' } });
     fireEvent.change(screen.getByLabelText(/password/i), { target: { value: 'josh' } });
     fireEvent.click(screen.getByText(/submit/i));
 
@@ -26,7 +26,7 @@ describe('Login Component', () => {
 
     render(<Login />);
 
-    fireEvent.change(screen.getByLabelText(/username/i), { target: { value: 'joe3' } });
+    fireEvent.change(screen.getByLabelText(/username/i), { target: { value: 'joe2' } });
     fireEvent.change(screen.getByLabelText(/password/i), { target: { value: 'josh' } });
     fireEvent.click(screen.getByText(/submit/i));
 
