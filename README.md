@@ -6,29 +6,29 @@ This project encompasses multiple testing strategies across different components
 
 
 # Table of Contents  
-React UI Testing  
+-React UI Testing  
 
-Item Creation Testing  
+-Item Creation Testing  
 
-API Testing with SuperTest  
+-API Testing with SuperTest  
 
-API Testing with Cypress and SuperTest  
+-API Testing with Cypress and SuperTest  
 
-Prerequisites  
+-Prerequisites  
 
-Setup  
+-Setup  
 
-Running Tests  
+-Running Tests  
 
-React UI Tests  
+-React UI Tests  
 
-Item Creation Tests  
+-Item Creation Tests  
 
-API Tests  
+-API Tests  
 
-Cypress Tests  
+-Cypress Tests  
 
-Starting the Frontend App  
+-Starting the Frontend App  
 
 
 **React UI Testing**  
