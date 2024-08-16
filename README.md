@@ -6,7 +6,7 @@ This project encompasses multiple testing strategies across different components
 
 
 # Table of Contents  
--React UI Testing  
+- React UI Testing  
 
 -Item Creation Testing  
 
