@@ -48,7 +48,7 @@ This project encompasses multiple testing strategies across different components
  
  Navigate to the project directory  
  
- Install the necessary dependencies:npm install  
+ Install the necessary dependencies: npm install  
  
  **React UI Tests**:  
  
