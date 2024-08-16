@@ -5,7 +5,7 @@
 This project encompasses multiple testing strategies across different components and functionalities.  
 
 
-# Table of Contents**  
+# Table of Contents  
 React UI Testing  
 
 Item Creation Testing  
@@ -32,6 +32,7 @@ Starting the Frontend App
 
 
 **React UI Testing**  
+
 UI Components: Defined in login.js.  
 
 Testing File: login.test.js  
@@ -91,7 +92,8 @@ Run specific test file: npx jest itemform.test.js
 
 Run all API tests: npx jest  
 
-# Cypress Tests
+# Cypress Tests  
+
 Headed Mode: Run Cypress tests in headed mode: npx cypress open  
 
 Headless Mode: Run Cypress tests in headless mode: npx cypress run  
