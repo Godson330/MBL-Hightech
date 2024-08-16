@@ -32,13 +32,13 @@ This project encompasses multiple testing strategies across different components
  
  **Prerequisites**:  
  
- **React**: Ensure React is installed.npm install react react-dom  
+ **React**: Ensure React is installed: npm install react react-dom  
  
- **Jest**: Ensure Jest is installed.npm install jest --save-dev  
+ **Jest**: Ensure Jest is installed: npm install jest --save-dev  
  
- **SuperTest**: Install SuperTest for API testing.npm install supertest --save-dev  
+ **SuperTest**: Install SuperTest for API testing: npm install supertest --save-dev  
  
- **Cypress**: Install Cypress for end-to-end testing.npm install cypress --save-dev  
+ **Cypress**: Install Cypress for end-to-end testing: npm install cypress --save-dev  
  
  **Node.js**: install node.js  
  
@@ -52,7 +52,7 @@ This project encompasses multiple testing strategies across different components
  
  **React UI Tests**:  
  
-  Run specific test file:npx jest login.test.js  
+  Run specific test file: npx jest login.test.js  
   
   **Item Creation Tests**:  
   
@@ -64,15 +64,15 @@ This project encompasses multiple testing strategies across different components
    
    **API Tests with Cypress**  
    
-   **Run Cypress tests in headed mode**:npx cypress open  
+   **Run Cypress tests in headed mode**: npx cypress open  
    
-   **Run Cypress tests in headless mode**:npx cypress run  
+   **Run Cypress tests in headless mode**: npx cypress run  
    
-**Install the necessary dependencies**:npm install  
+**Install the necessary dependencies**: npm install  
 
-**React UI Tests**: Run specific test file:npx jest login.test.js  
+**React UI Tests**: Run specific test file: npx jest login.test.js  
 
-**Item Creation Tests**:Run specific test file:npx jest itemform.test.js  
+**Item Creation Tests**:Run specific test file: npx jest itemform.test.js  
 
-**API Tests with SuperTest**: Run all API tests:npx jest  
+**API Tests with SuperTest**: Run all API tests: npx jest  
 
