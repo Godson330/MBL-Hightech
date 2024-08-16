@@ -116,13 +116,5 @@ This project encompasses multiple testing strategies across different components
 
 # License  
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-**Explanation**:  
-
-Added "License" Section: Includes a brief note about the license type and directs users to the LICENSE file for detailed information.  
-
-**Table of Contents Updated**: Added "License" to the Table of Contents for easy navigation.  
-
-Make sure to create a LICENSE file in the root directory of your project and include the full text of the MIT License or whichever license you choose.  
+This project is licensed under the MIT License  
 
