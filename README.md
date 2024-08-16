@@ -28,7 +28,9 @@ This project encompasses multiple testing strategies across different components
 
 - Cypress Tests  
 
-- Starting the Frontend App  
+- Starting the Frontend App
+  
+- License 
 
 
 **React UI Testing**  
@@ -110,4 +112,17 @@ This project encompasses multiple testing strategies across different components
 
 2 Start the development server: npm start  
 
-3 The app will be running on http://localhost:3000.
+3 The app will be running on http://localhost:3000.  
+
+# License  
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+**Explanation**:  
+
+Added "License" Section: Includes a brief note about the license type and directs users to the LICENSE file for detailed information.  
+
+**Table of Contents Updated**: Added "License" to the Table of Contents for easy navigation.  
+
+Make sure to create a LICENSE file in the root directory of your project and include the full text of the MIT License or whichever license you choose.  
+
