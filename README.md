@@ -18,13 +18,13 @@ This project encompasses multiple testing strategies across different components
  
  **Description**: Verifies item creation functionalities, using Jest to test components defined in itemform.js.  
  
- API Testing with SuperTest  
+ **API Testing with SuperTest**  
  
  **Testing File**: newapp.test.js  
  
  **Description**: Includes API tests for authentication  
  
- API Testing with Cypress and supertest  
+ **API Testing with Cypress and supertest**  
  
  **Testing File**: newappfirsttest.test.js  
  
@@ -56,9 +56,7 @@ This project encompasses multiple testing strategies across different components
   
   **Item Creation Tests**:  
   
-  **To Run specific test file**: npx jest itemform.test.js  
-  
-   API Tests with SuperTest  
+  **To Run specific test file**: npx jest itemform.test.js    
    
    **Run all API tests**: npx jest  
    
@@ -68,11 +66,15 @@ This project encompasses multiple testing strategies across different components
    
    **Run Cypress tests in headless mode**: npx cypress run  
    
-**Install the necessary dependencies**: npm install  
+**Install the necessary dependencies**:  
+npm install  
 
-**React UI Tests**: Run specific test file: npx jest login.test.js  
+**React UI Tests**:  
+Run specific test file: npx jest login.test.js  
 
-**Item Creation Tests**:Run specific test file: npx jest itemform.test.js  
+**Item Creation Tests**:  
+Run specific test file: npx jest itemform.test.js  
 
-**API Tests with SuperTest**: Run all API tests: npx jest  
+**API Tests with SuperTest**:   
+Run all API tests: npx jest  
 
