@@ -56,7 +56,13 @@ Description: Includes API tests for authentication.
 
 Testing File: newappfirsttest.test.js  
 
-Description: Tests user management using Cypress.
+Description: Tests user management using Cypress.  
+
+**UI Interaction Testing with Cypress**
+
+Testing File: cypressUi.test.js  
+
+Description: Tests various user interactions such as logging in, creating, updating, and deleting items on the UI using Cypress.
 
 # Prerequisites  
 
