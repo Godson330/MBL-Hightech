@@ -11,6 +11,10 @@ This project encompasses multiple testing strategies across different components
 - [Item Creation Testing](#item-creation-testing)
   
 - [API Testing with SuperTest](#api-testing-with-supertest)
+  
+- [Token Refresh Test](#token-refresh-test)
+
+- [React UI Testing](#react-ui-testing)
  
 - [API Testing with Cypress and SuperTest](#api-testing-with-cypress-and-supertest)
  
