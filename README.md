@@ -54,7 +54,19 @@ This project encompasses multiple testing strategies across different components
 
 - Testing File: `newapptoken.test.js`
   
-Description: This test checks the token refresh functionality, ensuring that an expired token can be successfully refreshed. It sends a request to the token refresh endpoint and expects a new token in response.
+Description: This test checks the token refresh functionality, ensuring that an expired token can be successfully refreshed. It sends a request to the token refresh endpoint and expects a new token in response.  
+
+## React UI Testing  
+
+UI Components: Defined in login.js  
+
+- Testing File: `login.test.js`  
+
+Description: Tests the React UI components for user login functionality using Jest.  
+
+- Tested Component: LoginForm  
+
+Test Description: This test verifies the rendering of the login form and checks the presence of the username and password input fields.
   
 
 ## API Testing with Cypress and SuperTest 
