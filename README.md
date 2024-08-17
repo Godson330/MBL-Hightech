@@ -50,6 +50,13 @@ This project encompasses multiple testing strategies across different components
 
 - Description: Includes API tests for authentication.
 
+## Token Refresh Test  
+
+- Testing File: `newapptoken.test.js`
+  
+Description: This test checks the token refresh functionality, ensuring that an expired token can be successfully refreshed. It sends a request to the token refresh endpoint and expects a new token in response.
+  
+
 ## API Testing with Cypress and SuperTest 
 
 - Testing File: `newappfirsttest.test.js`  
