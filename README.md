@@ -6,17 +6,20 @@ This project encompasses multiple testing strategies across different components
 
 
 ## Table of Contents  
-- [React UI Testing](#react-ui-testing)
-   
+
+## Backend Testing
+
 - [Item Creation Testing](#item-creation-testing)
-  
+
 - [API Testing with SuperTest](#api-testing-with-supertest)
-  
+
 - [Token Refresh Test](#token-refresh-test)
 
-- [React UI Testing](#react-ui-testing)
- 
 - [API Testing with Cypress and SuperTest](#api-testing-with-cypress-and-supertest)
+
+## Frontend Testing
+  
+- [React UI Testing](#react-ui-testing)
  
 - [UI Interaction Testing with Cypress](#ui-interaction-testing-with-cypress)
   
@@ -40,7 +43,6 @@ This project encompasses multiple testing strategies across different components
 - Testing File: `login.test.js`  
 
 - Description: Tests the React UI components for user login functionality using Jest.  
-
 
 ## Item Creation Testing 
 
